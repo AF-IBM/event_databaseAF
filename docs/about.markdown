@@ -7,7 +7,7 @@ has_children: false
 
 # About AI Alliance Event Calendar and The AI Alliance
 
-**AI Alliance Event Calendar** is a project of the [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
+**AI Alliance Event Calendar** is maintained by the [The AI Alliance](https://www.aialliance.org){:target="aia"}. 
 
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 

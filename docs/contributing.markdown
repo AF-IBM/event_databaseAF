@@ -4,19 +4,14 @@ title: Contributing
 nav_order: 90
 ---
 
-# How to Contribute to this Project
+# How to Contribute to this Calendar
 
-We welcome your contributions! 
+Know any events that aren't in our calendar? See any mistakes? Here is how to let us know:
 
-TODO: more specific ways to contribute.
-
-Ways to suggest ideas:
 * Post a [pull request](https://github.com/The-AI-Alliance/event_database/pulls){:target="prs"}! 
-	* For corrections to website pages, note that every page has an _Edit this page on GitHub_ link, which goes straight to the page's source. Make your edits there and submit a PR! This is the best way to help us fix typos and make other small improvements.
 * Post a [discussion topic](https://github.com/The-AI-Alliance/event_database/discussions){:target="discussions"} 
 * Post an [issue](https://github.com/The-AI-Alliance/event_database/issues){:target="issues"} 
-	* See also the [project board](https://github.com/orgs/The-AI-Alliance/projects/39/){:target="dashboard"}
-* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions for AI Alliance Event Calendar). This is a general email address, so be sure to mention this particular project.
+* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions for the AI Alliance Event Calendar). This is a general email address, so be sure to mention this particular website.
 
 For general information about contributing to AI Alliance projects, visit [this `community` repo](https://github.com/The-AI-Alliance/community/){:target="community"}, specifically the [`CONTRIBUTING` page](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="community"} for general information about contributing. 
 
